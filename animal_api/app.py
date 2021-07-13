@@ -12,7 +12,7 @@ def get_animal():
 def get_noise():
 
     noises = {
-        "cow" : "moooo", 
+        "cow" : "moo", 
         "horse" : "neigh", 
         "duck" : "quack"
     }
